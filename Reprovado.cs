@@ -8,6 +8,8 @@ namespace DesignPatternState
 {
     internal class Reprovado : EstadoDeUmOrcamento
     {
+        public int QntMaxDeDesconto { get ; set; }
+
         public void AplicaDescontoExtra(Orcamento orcamento)
         {
             throw new Exception("Orcamentos reprovados nao recebem desconto extra.");

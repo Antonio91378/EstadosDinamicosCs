@@ -8,9 +8,19 @@ namespace DesignPatternState
 {
     internal class Aprovado : EstadoDeUmOrcamento
     {
+        public int QntMaxDeDesconto { get ; set; }
+
         public void AplicaDescontoExtra(Orcamento orcamento)
         {
+            QntMaxDeDesconto ++;
+            if (QntMaxDeDesconto <= 1)
+            {
             orcamento.Valor = orcamento.Valor - (orcamento.Valor * 0.02);
+            }
+            else
+            {
+                throw new Exception("Desconto já aplicado");
+            }
         }
 
         public void Aprova(Orcamento orcamento)

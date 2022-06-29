@@ -8,6 +8,8 @@ namespace DesignPatternState
 {
     internal class Finalizado : EstadoDeUmOrcamento
     {
+        public int QntMaxDeDesconto { get; set; }
+
         public void AplicaDescontoExtra(Orcamento orcamento)
         {
             throw new Exception("Orcamentos finalizados nao recebem desconto extra.");

@@ -9,12 +9,10 @@
             reforma.Valor = 500;
             Console.WriteLine(reforma.Valor);
             reforma.AplicaDescontoExtra();
-            reforma.Aprova();
-            Console.WriteLine(reforma.Valor);
             reforma.AplicaDescontoExtra();
+            //dara uma excecao, como solicitado
             Console.WriteLine(reforma.Valor);
             reforma.Finaliza();
-            reforma.AplicaDescontoExtra();
         }
     }
 }

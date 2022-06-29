@@ -1,0 +1,15 @@
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\bin\Debug\net6.0\DesignPatternState.exe
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\bin\Debug\net6.0\DesignPatternState.deps.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\bin\Debug\net6.0\DesignPatternState.runtimeconfig.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\bin\Debug\net6.0\DesignPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\bin\Debug\net6.0\DesignPatternState.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.csproj.AssemblyReference.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.AssemblyInfoInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.AssemblyInfo.cs
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.csproj.CoreCompileInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\refint\DesignPatternState.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\DesignPatternState.genruntimeconfig.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\DesignPatternState\DesignPatternState\obj\Debug\net6.0\ref\DesignPatternState.dll
